@@ -32,28 +32,9 @@ By replacing the manual processes of insurance verification, the Sekofia Hospita
 * Enhance Patient Experience: Improve the quality of care by allowing healthcare providers to focus on patient needs rather than administrative tasks.
 
 
-## How to Set Up the Environment and the Project
+## How to Set Up the Environment 
 
-1. Clone the Repository:
-
-```bash
-git clone https://github.com/[your_repo]/sekofia-healthcare-dashboard.git
-cd sekofia-healthcare-dashboard
-```
-
-2. Install Dependencies: Run the following command to install the necessary libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Configure Environment Variables: Ensure that any sensitive information, like API keys for insurance companies, is stored securely in a ```.env``` file.
-
-4. Run the Application: To start the application, run:
-
-```bash
-python app.py
-```
+* I started working on the frontend so the enviroment hasn't been fully set up yet. 
 
 ### Designs
 

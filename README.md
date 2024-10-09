@@ -84,6 +84,10 @@ Below are screenshots to the Figma mockups, and desktop app interface designs.
 
 * Python (Flask), HTML, CSS, JavaScript, SQLite/MySQL for database management.
 
+## Video Demo  
+
+* <a href="https://drive.google.com/file/d/1HD6jx25SUpiXOpRKx6kE9MGyLxl3RSe-/view?usp=sharing" target="_blank">Link to video demo</a>
+
 ## Deployment Plan
 Given the short timeline for project completion, here’s a cost-effective and time-efficient deployment plan:
 
